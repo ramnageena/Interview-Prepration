@@ -109,3 +109,22 @@ public class ArrayListDemo1 {
         System.out.println(list2);
     }
 }
+
+/*
+
+10
+List is empty or not :true
+0
+-1
+Converted Array : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Replaced value : 10
+Replaced the position :[1, 2, 3, 4, 5, 6, 7, 8, 9, 11]
+Sub list strings : [5, 6, 7]
+Join two arrayList :[1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+Added into 3rd arrayList: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+Removed all the element at a time :[]
+Combined List: [Apple, Orange, Banana, Mango, Apple, Litchi, Grapes, Mango]
+[Apple, Banana, Grapes, Litchi, Mango, Orange]
+
+
+ */

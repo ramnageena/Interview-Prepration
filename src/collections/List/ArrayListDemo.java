@@ -54,3 +54,21 @@ public class ArrayListDemo {
 
 
 }
+/*
+
+List :[2, 0, 4, 1, 3]
+4
+ForEach Iteration :2
+ForEach Iteration :0
+ForEach Iteration :4
+ForEach Iteration :1
+ForEach Iteration :3
+Removed element: 4
+Remaining element after removing :[2, 0, 1, 3]
+Value is present: false
+Maximum value from the list: 66
+Minimum value from the list: 1
+Sorted list: [1, 1, 3, 22, 32, 33, 45, 66]
+Sorted list based on alphabetical order : [Akashatha, Divya, Gokul, Rahul, Ram]
+
+ */
