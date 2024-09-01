@@ -48,7 +48,7 @@ public class ArrayListDemo {
         Collections.sort(list2);
         System.out.println("Sorted list based on alphabetical order : "+list2);
 
-        //Write a program to remove duplicate elements from an ArrayList of integers.
+
 
     }
 
