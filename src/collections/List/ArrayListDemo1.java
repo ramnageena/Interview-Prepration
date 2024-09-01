@@ -106,7 +106,7 @@ public class ArrayListDemo1 {
         // Print the combined ArrayList
         System.out.println("Combined List: " + list);
         List<String> list2 = list.stream().distinct().sorted().toList();
-        System.out.println(list2);
+        System.out.println("Combine two arrays and Unique fruits List: "+list2);
     }
 }
 
@@ -124,7 +124,7 @@ Join two arrayList :[1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 11, 12, 13, 14, 15, 16, 17, 
 Added into 3rd arrayList: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 Removed all the element at a time :[]
 Combined List: [Apple, Orange, Banana, Mango, Apple, Litchi, Grapes, Mango]
-[Apple, Banana, Grapes, Litchi, Mango, Orange]
+Combine two arrays and Unique fruits List: [Apple, Banana, Grapes, Litchi, Mango, Orange]
 
 
  */
